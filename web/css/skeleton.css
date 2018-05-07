@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7/05/2018, 01:06:42 PM
+    Author     : juandaniel
+*/
+
+body{
+   
+}
+.body-main{
+    display: flex;
+    height: 95vh;
+    align-items: center;
+ background: url(../images/bgdani.jpg) no-repeat;
+    background-size: cover;
+    margin-top: -8px;
+}
