@@ -15,7 +15,7 @@ body{
     display: flex;
     height: 95vh;
     align-items: center;
- background: url(../images/bgdani.jpg) no-repeat;
+    background: url(../images/bgdani.jpg) no-repeat;
     background-size: cover;
     margin-top: -8px;
 }
