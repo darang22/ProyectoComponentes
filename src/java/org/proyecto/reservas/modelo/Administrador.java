@@ -1,5 +1,7 @@
 package org.proyecto.reservas.modelo;
 
+import org.thanos.reservations.Reserva;
+
 /**
  *
  * @author dsalazar

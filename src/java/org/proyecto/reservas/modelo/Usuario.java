@@ -1,5 +1,6 @@
 package org.proyecto.reservas.modelo;
 
+import org.thanos.reservations.Reserva;
 import java.util.Date;
 
 /**
