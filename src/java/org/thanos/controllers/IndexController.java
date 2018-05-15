@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.tahons.controllers;
+package org.thanos.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
